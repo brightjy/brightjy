@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-### 😄 [about me](https://brightjy.github.io/brightjy/, "brightjy")
+### 😄 [about me](https://brightjy.github.io/brightjy/)
 
 <!--
 **brightjy/brightjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
