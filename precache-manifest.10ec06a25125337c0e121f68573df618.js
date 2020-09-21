@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "392411f058bab06dc47c08c6944b2a6f",
+    "revision": "e61005a23d5d349e762cb04f60e34433",
     "url": "/brightjy/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brightjy/static/js/2.0390201f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "72e92e4e596905007239",
-    "url": "/brightjy/static/js/main.03036828.chunk.js"
+    "revision": "d3d9bd0f708805bb858e",
+    "url": "/brightjy/static/js/main.d74a0f52.chunk.js"
   },
   {
     "revision": "4db242821742c1038974",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/brightjy/static/js/main.03036828.chunk.js",
-    "main.js.map": "/brightjy/static/js/main.03036828.chunk.js.map",
+    "main.js": "/brightjy/static/js/main.d74a0f52.chunk.js",
+    "main.js.map": "/brightjy/static/js/main.d74a0f52.chunk.js.map",
     "runtime-main.js": "/brightjy/static/js/runtime-main.bda80b50.js",
     "runtime-main.js.map": "/brightjy/static/js/runtime-main.bda80b50.js.map",
     "static/js/2.0390201f.chunk.js": "/brightjy/static/js/2.0390201f.chunk.js",
     "static/js/2.0390201f.chunk.js.map": "/brightjy/static/js/2.0390201f.chunk.js.map",
     "index.html": "/brightjy/index.html",
-    "precache-manifest.016b0b4703fbbb6110568457da4f8209.js": "/brightjy/precache-manifest.016b0b4703fbbb6110568457da4f8209.js",
+    "precache-manifest.10ec06a25125337c0e121f68573df618.js": "/brightjy/precache-manifest.10ec06a25125337c0e121f68573df618.js",
     "service-worker.js": "/brightjy/service-worker.js",
     "static/js/2.0390201f.chunk.js.LICENSE.txt": "/brightjy/static/js/2.0390201f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bda80b50.js",
     "static/js/2.0390201f.chunk.js",
-    "static/js/main.03036828.chunk.js"
+    "static/js/main.d74a0f52.chunk.js"
   ]
 }
